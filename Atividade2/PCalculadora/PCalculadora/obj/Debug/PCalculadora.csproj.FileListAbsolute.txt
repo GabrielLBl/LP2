@@ -1,0 +1,11 @@
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PCalculadora\PCalculadora\bin\Debug\PCalculadora.exe.config
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PCalculadora\PCalculadora\bin\Debug\PCalculadora.exe
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PCalculadora\PCalculadora\bin\Debug\PCalculadora.pdb
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PCalculadora\PCalculadora\obj\Debug\PCalculadora.Form1.resources
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PCalculadora\PCalculadora\obj\Debug\PCalculadora.Properties.Resources.resources
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.GenerateResource.cache
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PCalculadora\PCalculadora\obj\Debug\PCalculadora.exe
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PCalculadora\PCalculadora\obj\Debug\PCalculadora.pdb
