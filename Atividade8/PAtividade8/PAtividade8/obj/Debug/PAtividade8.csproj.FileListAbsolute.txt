@@ -1,0 +1,37 @@
+c:\users\0030482121018\documents\visual studio 2013\Projects\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe.config
+c:\users\0030482121018\documents\visual studio 2013\Projects\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe
+c:\users\0030482121018\documents\visual studio 2013\Projects\PAtividade8\PAtividade8\bin\Debug\PAtividade8.pdb
+c:\users\0030482121018\documents\visual studio 2013\Projects\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csprojResolveAssemblyReference.cache
+c:\users\0030482121018\documents\visual studio 2013\Projects\PAtividade8\PAtividade8\obj\Debug\PAtividade8.Form1.resources
+c:\users\0030482121018\documents\visual studio 2013\Projects\PAtividade8\PAtividade8\obj\Debug\PAtividade8.Properties.Resources.resources
+c:\users\0030482121018\documents\visual studio 2013\Projects\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.GenerateResource.Cache
+c:\users\0030482121018\documents\visual studio 2013\Projects\PAtividade8\PAtividade8\obj\Debug\PAtividade8.exe
+c:\users\0030482121018\documents\visual studio 2013\Projects\PAtividade8\PAtividade8\obj\Debug\PAtividade8.pdb
+C:\Users\0030482121018\Downloads\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe.config
+C:\Users\0030482121018\Downloads\PAtividade8\PAtividade8\obj\Debug\PAtividade8.exe
+C:\Users\0030482121018\Downloads\PAtividade8\PAtividade8\obj\Debug\PAtividade8.pdb
+C:\Users\0030482121018\Downloads\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe
+C:\Users\0030482121018\Downloads\PAtividade8\PAtividade8\bin\Debug\PAtividade8.pdb
+C:\Users\0030482121018\Downloads\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csprojResolveAssemblyReference.cache
+C:\Users\0030482121018\Downloads\PAtividade8\PAtividade8\obj\Debug\PAtividade8.Form1.resources
+C:\Users\0030482121018\Downloads\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio1.resources
+C:\Users\0030482121018\Downloads\PAtividade8\PAtividade8\obj\Debug\PAtividade8.Properties.Resources.resources
+C:\Users\0030482121018\Downloads\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.GenerateResource.Cache
+C:\Users\0030482121018\Downloads\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio2.resources
+C:\Users\0030482121018\Downloads\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio3.resources
+C:\Users\0030482121018\Downloads\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio4.resources
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe.config
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\bin\Debug\PAtividade8.exe
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\bin\Debug\PAtividade8.pdb
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.Form1.resources
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio1.resources
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio2.resources
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio3.resources
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio4.resources
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.Properties.Resources.resources
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.GenerateResource.cache
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.exe
+C:\Users\Mauricio\Downloads\meu irmao zambardino\LP2\PAtividade8\PAtividade8\obj\Debug\PAtividade8.pdb
