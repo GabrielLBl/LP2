@@ -1,0 +1,11 @@
+c:\users\0030482121023\documents\visual studio 2013\Projects\pFerramentas\pFerramentas\bin\Debug\pFerramentas.exe.config
+c:\users\0030482121023\documents\visual studio 2013\Projects\pFerramentas\pFerramentas\obj\Debug\pFerramentas.csprojResolveAssemblyReference.cache
+c:\users\0030482121023\documents\visual studio 2013\Projects\pFerramentas\pFerramentas\obj\Debug\pFerramentas.Form1.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\pFerramentas\pFerramentas\obj\Debug\pFerramentas.Properties.Resources.resources
+c:\users\0030482121023\documents\visual studio 2013\Projects\pFerramentas\pFerramentas\obj\Debug\pFerramentas.csproj.GenerateResource.Cache
+c:\users\0030482121023\documents\visual studio 2013\Projects\pFerramentas\pFerramentas\bin\Debug\pFerramentas.exe
+c:\users\0030482121023\documents\visual studio 2013\Projects\pFerramentas\pFerramentas\bin\Debug\pFerramentas.pdb
+c:\users\0030482121023\documents\visual studio 2013\Projects\pFerramentas\pFerramentas\obj\Debug\pFerramentas.exe
+c:\users\0030482121023\documents\visual studio 2013\Projects\pFerramentas\pFerramentas\obj\Debug\pFerramentas.pdb
+C:\Users\0030482121023\Documents\Visual Studio 2013\Projects\pFerramentas\pFerramentas\obj\Debug\pFerramentas.frmFerramenta.resources
+C:\Users\0030482121023\Documents\Visual Studio 2013\Projects\pFerramentas\pFerramentas\obj\Debug\pFerramentas.frmSobre.resources
